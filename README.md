@@ -15,7 +15,7 @@ All Posts
 
 ![alt text](https://github.com/anshulranjan/Blog/blob/main/images/posts.JPG?raw=true)
 
-profile
+Profile
 
 ![alt text](https://github.com/anshulranjan/Blog/blob/main/images/profile.JPG?raw=true)
 
